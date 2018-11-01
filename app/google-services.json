@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "51120325189-81jkql5aci02v2amvjcv4n044o6pm7f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.santi.tallerfirebase",
+            "certificate_hash": "4159ab1e9af12197bb55d81a99027c523ad0e981"
+          }
+        },
+        {
           "client_id": "51120325189-mk12prnevp3sj3qacpceklmru80uirk2.apps.googleusercontent.com",
           "client_type": 3
         }
